@@ -1,0 +1,11 @@
+workdir: "/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE138527"
+samples:
+  "GSM4110695": ["SRR10240070"]
+  "GSM4110696": ["SRR10240071"]
+  "GSM4110697": ["SRR10240072"]
+  "GSM4110698": ["SRR10240073"]
+  "GSM4110699": ["SRR10240074"]
+  "GSM4110700": ["SRR10240075"]
+star_index: "/rhome/naotok/bigdata/STAR/index_mm10_ensembl_v102"
+gtf: "/rhome/naotok/bigdata/genome_annotation/Mouse/Mus_musculus.GRCm38.102.gtf"
+layout: "single"

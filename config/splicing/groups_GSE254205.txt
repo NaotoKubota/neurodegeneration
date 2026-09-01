@@ -1,0 +1,7 @@
+APOE_3_3__APOE_3_3_iMG_LD_high__LD_high
+APOE_3_3__APOE_3_3_iMG_LD_low__LD_low
+APOE_4_4__APOE_4_4_iMG_LD_high__LD_high
+APOE_4_4__APOE_4_4_iMG_LD_low__LD_low
+APOE_4_4__GNE_317_fAB_treated
+APOE_4_4__fAB_treated
+APOE_4_4__untreated

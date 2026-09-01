@@ -1,0 +1,36 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+GSM8376044	Wildtype__Cervical_spinal_cord__9_weeks	Mus musculus	Cervical_9wk_WT_1	Wildtype	9 weeks		Cervical spinal cord						SRR29690411
+GSM8376045	Wildtype__Medulla__9_weeks	Mus musculus	Medulla_9wk_WT_1	Wildtype	9 weeks		Medulla						SRR29690410
+GSM8376046	SCA7_266Q_5Q__Cervical_spinal_cord__9_weeks	Mus musculus	Cervical_9wk_SCA7_1	SCA7 266Q/5Q	9 weeks		Cervical spinal cord						SRR29690409
+GSM8376047	SCA7_266Q_5Q__Medulla__9_weeks	Mus musculus	Medulla_9wk_SCA7_1	SCA7 266Q/5Q	9 weeks		Medulla						SRR29690408
+GSM8376048	Wildtype__Cervical_spinal_cord__9_weeks	Mus musculus	Cervical_9wk_WT_2	Wildtype	9 weeks		Cervical spinal cord						SRR29690407
+GSM8376049	Wildtype__Medulla__9_weeks	Mus musculus	Medulla_9wk_WT_2	Wildtype	9 weeks		Medulla						SRR29690406
+GSM8376050	SCA7_266Q_5Q__Cervical_spinal_cord__9_weeks	Mus musculus	Cervical_9wk_SCA7_2	SCA7 266Q/5Q	9 weeks		Cervical spinal cord						SRR29690405
+GSM8376051	SCA7_266Q_5Q__Medulla__9_weeks	Mus musculus	Medulla_9wk_SCA7_2	SCA7 266Q/5Q	9 weeks		Medulla						SRR29690404
+GSM8376052	SCA7_266Q_5Q__Cervical_spinal_cord__9_weeks	Mus musculus	Cervical_9wk_SCA7_3	SCA7 266Q/5Q	9 weeks		Cervical spinal cord						SRR29690403
+GSM8376053	SCA7_266Q_5Q__Medulla__9_weeks	Mus musculus	Medulla_9wk_SCA7_3	SCA7 266Q/5Q	9 weeks		Medulla						SRR29690402
+GSM8376054	Wildtype__Cervical_spinal_cord__9_weeks	Mus musculus	Cervical_9wk_WT_3	Wildtype	9 weeks		Cervical spinal cord						SRR29690401
+GSM8376055	Wildtype__Medulla__9_weeks	Mus musculus	Medulla_9wk_WT_3	Wildtype	9 weeks		Medulla						SRR29690400
+GSM8376056	SCA7_266Q_5Q__Cervical_spinal_cord__9_weeks	Mus musculus	Cervical_9wk_SCA7_4	SCA7 266Q/5Q	9 weeks		Cervical spinal cord						SRR29690399
+GSM8376057	SCA7_266Q_5Q__Medulla__9_weeks	Mus musculus	Medulla_9wk_SCA7_4	SCA7 266Q/5Q	9 weeks		Medulla						SRR29690398
+GSM8376058	SCA7_266Q_5Q__Cervical_spinal_cord__9_weeks	Mus musculus	Cervical_9wk_SCA7_5	SCA7 266Q/5Q	9 weeks		Cervical spinal cord						SRR29690397
+GSM8376059	SCA7_266Q_5Q__Medulla__9_weeks	Mus musculus	Medulla_9wk_SCA7_5	SCA7 266Q/5Q	9 weeks		Medulla						SRR29690396
+GSM8376060	Wildtype__Cervical_spinal_cord__9_weeks	Mus musculus	Cervical_9wk_WT_4	Wildtype	9 weeks		Cervical spinal cord						SRR29690395
+GSM8376061	Wildtype__Medulla__9_weeks	Mus musculus	Medulla_9wk_WT_4	Wildtype	9 weeks		Medulla						SRR29690394
+GSM8376062	Wildtype__Cervical_spinal_cord__9_weeks	Mus musculus	Cervical_9wk_WT_5	Wildtype	9 weeks		Cervical spinal cord						SRR29690393
+GSM8376063	Wildtype__Medulla__9_weeks	Mus musculus	Medulla_9wk_WT_5	Wildtype	9 weeks		Medulla						SRR29690392
+GSM8376064	SCA7_266Q_5Q__Cervical_spinal_cord__5_weeks	Mus musculus	Cervical_5wk_SCA7_1	SCA7 266Q/5Q	5 weeks		Cervical spinal cord						SRR29690391
+GSM8376065	SCA7_266Q_5Q__Medulla__5_weeks	Mus musculus	Medulla_5wk_SCA7_1	SCA7 266Q/5Q	5 weeks		Medulla						SRR29690390
+GSM8376066	SCA7_266Q_5Q__Cervical_spinal_cord__5_weeks	Mus musculus	Cervical_5wk_SCA7_2	SCA7 266Q/5Q	5 weeks		Cervical spinal cord						SRR29690389
+GSM8376067	SCA7_266Q_5Q__Medulla__5_weeks	Mus musculus	Medulla_5wk_SCA7_2	SCA7 266Q/5Q	5 weeks		Medulla						SRR29690388
+GSM8376068	Wildtype__Cervical_spinal_cord__5_weeks	Mus musculus	Cervical_5wk_WT_1	Wildtype	5 weeks		Cervical spinal cord						SRR29690387
+GSM8376069	Wildtype__Medulla__5_weeks	Mus musculus	Medulla_5wk_WT_1	Wildtype	5 weeks		Medulla						SRR29690386
+GSM8376070	Wildtype__Cervical_spinal_cord__5_weeks	Mus musculus	Cervical_5wk_WT_2	Wildtype	5 weeks		Cervical spinal cord						SRR29690385
+GSM8376071	Wildtype__Medulla__5_weeks	Mus musculus	Medulla_5wk_WT_2	Wildtype	5 weeks		Medulla						SRR29690384
+GSM8376072	Wildtype__Medulla__p8	Mus musculus	Medulla_p8_WT_1	Wildtype	p8		Medulla						SRR29690383
+GSM8376073	Wildtype__Cervical_spinal_cord__p8	Mus musculus	Cervical_p8_WT_1	Wildtype	p8		Cervical spinal cord						SRR29690382
+GSM8376074	Wildtype__Medulla__p8	Mus musculus	Medulla_p8_WT_2	Wildtype	p8		Medulla						SRR29690381
+GSM8376075	SCA7_266Q_5Q__Cervical_spinal_cord__p8	Mus musculus	Cervical_p8_SCA7_1	SCA7 266Q/5Q	p8		Cervical spinal cord						SRR29690380
+GSM8376076	SCA7_266Q_5Q__Medulla__p8	Mus musculus	Medulla_p8_SCA7_1	SCA7 266Q/5Q	p8		Medulla						SRR29690379
+GSM8376077	SCA7_266Q_5Q__Cervical_spinal_cord__p8	Mus musculus	Cervical_p8_SCA7_2	SCA7 266Q/5Q	p8		Cervical spinal cord						SRR29690378
+GSM8376078	SCA7_266Q_5Q__Medulla__p8	Mus musculus	Medulla_p8_SCA7_2	SCA7 266Q/5Q	p8		Medulla						SRR29690377

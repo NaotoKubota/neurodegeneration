@@ -1,0 +1,19 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+GSM2751137	APOE3__iPSCs	Homo sapiens	RNA-Seq iPSC APOE3_rep1	APOE3				iPSCs					SRR5956447
+GSM2751138	APOE3__iPSCs	Homo sapiens	RNA-Seq iPSC APOE3_rep2	APOE3				iPSCs					SRR5956448
+GSM2751139	APOE3__iPSCs	Homo sapiens	RNA-Seq iPSC APOE3_rep3	APOE3				iPSCs					SRR5956449
+GSM2751140	APOE4__iPSCs	Homo sapiens	RNA-Seq iPSC APOE4 rep1	APOE4				iPSCs					SRR5956450
+GSM2751141	APOE4__iPSCs	Homo sapiens	RNA-Seq iPSC APOE4 rep2	APOE4				iPSCs					SRR5956451
+GSM2751142	APOE4__iPSCs	Homo sapiens	RNA-Seq iPSC APOE4 rep3	APOE4				iPSCs					SRR5956452
+GSM2751143	APOE3__astrocytes	Homo sapiens	RNA-Seq AST APOE3_rep1	APOE3				astrocytes					SRR5956453
+GSM2751144	APOE3__astrocytes	Homo sapiens	RNA-Seq AST APOE3_rep2	APOE3				astrocytes					SRR5956454
+GSM2751145	APOE3__astrocytes	Homo sapiens	RNA-Seq AST APOE3_rep3	APOE3				astrocytes					SRR5956455
+GSM2751146	APOE4__astrocytes	Homo sapiens	RNA-Seq AST APOE4 rep1	APOE4				astrocytes					SRR5956456
+GSM2751147	APOE4__astrocytes	Homo sapiens	RNA-Seq AST APOE4 rep2	APOE4				astrocytes					SRR5956457
+GSM2751148	APOE4__astrocytes	Homo sapiens	RNA-Seq AST APOE4 rep3	APOE4				astrocytes					SRR5956458
+GSM2751157	APOE3__neuron	Homo sapiens	RNA-Seq NEU APOE3_rep1	APOE3				neuron					SRR5956467
+GSM2751158	APOE3__neuron	Homo sapiens	RNA-Seq NEU APOE3_rep2	APOE3				neuron					SRR5956468
+GSM2751159	APOE3__neuron	Homo sapiens	RNA-Seq NEU APOE3_rep3	APOE3				neuron					SRR5956469
+GSM2751160	APOE4__neuron	Homo sapiens	RNA-Seq NEU APOE4_rep1	APOE4				neuron					SRR5956470
+GSM2751161	APOE4__neuron	Homo sapiens	RNA-Seq NEU APOE4_rep2	APOE4				neuron					SRR5956471
+GSM2751162	APOE4__neuron	Homo sapiens	RNA-Seq NEU APOE4_rep3	APOE4				neuron					SRR5956472

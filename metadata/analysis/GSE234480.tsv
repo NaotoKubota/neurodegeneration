@@ -1,0 +1,9 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+GSM7469333	WT_APOE4	Mus musculus	WT:APOE4, biol rep 1	WT:APOE4		Male		Astrocytes					SRR24877146,SRR24877147
+GSM7469334	WT_APOE4	Mus musculus	WT:APOE4, biol rep 2	WT:APOE4		Male		Astrocytes					SRR24877144,SRR24877145
+GSM7469335	WT_APOE4	Mus musculus	WT:APOE4, biol rep 3	WT:APOE4		Male		Astrocytes					SRR24877142,SRR24877143
+GSM7469336	WT_APOE4	Mus musculus	WT:APOE4, biol rep 4	WT:APOE4		Male		Astrocytes					SRR24877140,SRR24877141
+GSM7469337	WT_APOE4	Mus musculus	WT:APOE4, biol rep 5	WT:APOE4		Male		Astrocytes					SRR24877138,SRR24877139
+GSM7469338	WT_APOE4_cKO	Mus musculus	WT:APOE4 cKO, biol rep 1	WT:APOE4 cKO		Male		Astrocytes					SRR24877136,SRR24877137
+GSM7469339	WT_APOE4_cKO	Mus musculus	WT:APOE4 cKO, biol rep 2	WT:APOE4 cKO		Male		Astrocytes					SRR24877134,SRR24877135
+GSM7469340	WT_APOE4_cKO	Mus musculus	WT:APOE4 cKO, biol rep 3	WT:APOE4 cKO		Male		Astrocytes					SRR24877132,SRR24877133

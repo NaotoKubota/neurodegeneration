@@ -1,0 +1,21 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+GSM4156637	APOE3__Female	Mus musculus	S144	APOE3	16m	Female	Hippocampus						SRR10428411
+GSM4156638	APOE3__Female	Mus musculus	S145	APOE3	16m	Female	Hippocampus						SRR10428412
+GSM4156639	APOE3__Female	Mus musculus	S146	APOE3	16m	Female	Hippocampus						SRR10428413
+GSM4156640	APOE3__Female	Mus musculus	S147	APOE3	16m	Female	Hippocampus						SRR10428414
+GSM4156641	APOE3__Female	Mus musculus	S148	APOE3	16m	Female	Hippocampus						SRR10428415
+GSM4156642	APOE3__Male	Mus musculus	S154	APOE3	16m	Male	Hippocampus						SRR10428416
+GSM4156643	APOE3__Male	Mus musculus	S155	APOE3	16m	Male	Hippocampus						SRR10428417
+GSM4156644	APOE3__Male	Mus musculus	S156	APOE3	16m	Male	Hippocampus						SRR10428418
+GSM4156645	APOE3__Male	Mus musculus	S157	APOE3	16m	Male	Hippocampus						SRR10428419
+GSM4156646	APOE3__Male	Mus musculus	S158	APOE3	16m	Male	Hippocampus						SRR10428420
+GSM4156647	APOE4__Female	Mus musculus	S164	APOE4	16m	Female	Hippocampus						SRR10428421
+GSM4156648	APOE4__Female	Mus musculus	S165	APOE4	16m	Female	Hippocampus						SRR10428422
+GSM4156649	APOE4__Female	Mus musculus	S166	APOE4	16m	Female	Hippocampus						SRR10428423
+GSM4156650	APOE4__Female	Mus musculus	S167	APOE4	16m	Female	Hippocampus						SRR10428424
+GSM4156651	APOE4__Female	Mus musculus	S168	APOE4	16m	Female	Hippocampus						SRR10428425
+GSM4156652	APOE4__Male	Mus musculus	S174	APOE4	16m	Male	Hippocampus						SRR10428426
+GSM4156653	APOE4__Male	Mus musculus	S175	APOE4	16m	Male	Hippocampus						SRR10428427
+GSM4156654	APOE4__Male	Mus musculus	S176	APOE4	16m	Male	Hippocampus						SRR10428428
+GSM4156655	APOE4__Male	Mus musculus	S177	APOE4	16m	Male	Hippocampus						SRR10428429
+GSM4156656	APOE4__Male	Mus musculus	S178	APOE4	16m	Male	Hippocampus						SRR10428430

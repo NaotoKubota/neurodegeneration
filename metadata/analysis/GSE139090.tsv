@@ -1,0 +1,13 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+GSM4130767	wild_type__12_weeks	Mus musculus	WTQ_12wk_3mice_L2409	wild type	12 weeks								SRR10310286
+GSM4130768	wild_type__12_weeks	Mus musculus	WTQ_12wk_3mice_L2410	wild type	12 weeks								SRR10310287
+GSM4130769	wild_type__12_weeks	Mus musculus	WTQ_12wk_3mice_L2415	wild type	12 weeks								SRR10310288
+GSM4130770	wild_type__29_weeks	Mus musculus	WTQ_29wk_3mice_L2358	wild type	29 weeks								SRR10310289
+GSM4130771	wild_type__29_weeks	Mus musculus	WTQ_29wk_3mice_L2359	wild type	29 weeks								SRR10310290
+GSM4130772	wild_type__29_weeks	Mus musculus	WTQ_29wk_3mice_L2362	wild type	29 weeks								SRR10310291
+GSM4130773	fxSCA7_92Q__12_weeks	Mus musculus	92Q_12wk_3mice_L2412	fxSCA7 92Q	12 weeks								SRR10310292
+GSM4130774	fxSCA7_92Q__12_weeks	Mus musculus	92Q_12wk_3mice_L2413	fxSCA7 92Q	12 weeks								SRR10310293
+GSM4130775	fxSCA7_92Q__12_weeks	Mus musculus	92Q_12wk_3mice_L2416	fxSCA7 92Q	12 weeks								SRR10310294
+GSM4130776	fxSCA7_92Q__29_weeks	Mus musculus	92Q_29wk_3mice_L2312	fxSCA7 92Q	29 weeks								SRR10310295
+GSM4130777	fxSCA7_92Q__29_weeks	Mus musculus	92Q_29wk_3mice_L2361	fxSCA7 92Q	29 weeks								SRR10310296
+GSM4130778	fxSCA7_92Q__29_weeks	Mus musculus	92Q_29wk_3mice_L2363	fxSCA7 92Q	29 weeks								SRR10310297

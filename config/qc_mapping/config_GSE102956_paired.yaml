@@ -1,0 +1,13 @@
+workdir: "/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE102956_paired"
+samples:
+  "GSM2751149": ["SRR5956459"]
+  "GSM2751150": ["SRR5956460"]
+  "GSM2751151": ["SRR5956461"]
+  "GSM2751152": ["SRR5956462"]
+  "GSM2751153": ["SRR5956463"]
+  "GSM2751154": ["SRR5956464"]
+  "GSM2751155": ["SRR5956465"]
+  "GSM2751156": ["SRR5956466"]
+star_index: "/rhome/naotok/bigdata/STAR/index_hg38_ensembl_v106"
+gtf: "/rhome/naotok/bigdata/genome_annotation/Human/Homo_sapiens.GRCh38.106.gtf"
+layout: "paired"

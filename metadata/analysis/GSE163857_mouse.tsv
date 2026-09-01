@@ -1,0 +1,31 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+GSM4988799	E3_E3__Targeted_Replacement_Control__Female	Mus musculus	F0_A9_mouse_E3/E3_TR_microglia	E3/E3		Female		MACS-sorted CD11b+ cells from brain homogenates			Targeted Replacement Control	Batch 1	SRR13306413
+GSM4988800	E3_E3__FAD_transgenic__Female	Mus musculus	F13_C9_mouse_E3/E3_FAD_microglia	E3/E3		Female		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306414
+GSM4988801	E3_E3__Targeted_Replacement_Control__Female	Mus musculus	F1_B9_mouse_E3/E3_TR_microglia	E3/E3		Female		MACS-sorted CD11b+ cells from brain homogenates			Targeted Replacement Control	Batch 1	SRR13306415
+GSM4988802	E3_E3__FAD_transgenic__Female	Mus musculus	F26_G9_mouse_E3/E3_FAD_microglia	E3/E3		Female		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306416
+GSM4988803	E3_E3__FAD_transgenic__Female	Mus musculus	F2_D9_mouse_E3/E3_FAD_microglia	E3/E3		Female		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306417
+GSM4988804	E3_E3__FAD_transgenic__Female	Mus musculus	F4_F9_mouse_E3/E3_FAD_microglia	E3/E3		Female		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306418
+GSM4988805	E4_E4__FAD_transgenic__Female	Mus musculus	F59_D11_mouse_E4/E4_FAD_microglia	E4/E4		Female		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306419
+GSM4988806	E3_E3__FAD_transgenic__Female	Mus musculus	F5_E9_mouse_E3/E3_FAD_microglia	E3/E3		Female		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306420
+GSM4988807	E4_E4__FAD_transgenic__Female	Mus musculus	F7_C11_mouse_E4/E4_FAD_microglia	E4/E4		Female		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306421
+GSM4988808	E4_E4__Targeted_Replacement_Control__Female	Mus musculus	F91_H10_mouse_E4/E4_TR_microglia	E4/E4		Female		MACS-sorted CD11b+ cells from brain homogenates			Targeted Replacement Control	Batch 1	SRR13306422
+GSM4988809	E4_E4__FAD_transgenic__Female	Mus musculus	F92_A11_mouse_E4/E4_FAD_microglia	E4/E4		Female		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306423
+GSM4988810	E4_E4__FAD_transgenic__Female	Mus musculus	F93_B11_mouse_E4/E4_FAD_microglia	E4/E4		Female		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306424
+GSM4988811	E4_E4__Targeted_Replacement_Control__Female	Mus musculus	FA17_E11_mouse_E4/E4_TR_microglia	E4/E4		Female		MACS-sorted CD11b+ cells from brain homogenates			Targeted Replacement Control	Batch 1	SRR13306425
+GSM4988812	E4_E4__FAD_transgenic__Female	Mus musculus	FA66_F11_mouse_E4/E4_FAD_microglia	E4/E4		Female		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306426
+GSM4988813	E3_E3__Targeted_Replacement_Control__Male	Mus musculus	M10a_C10_mouse_E3/E3_TR_microglia	E3/E3		Male		MACS-sorted CD11b+ cells from brain homogenates			Targeted Replacement Control	Batch 1	SRR13306427
+GSM4988814	E4_E4__FAD_transgenic__Male	Mus musculus	M10b_D12_mouse_E4/E4_FAD_microglia	E4/E4		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306428
+GSM4988815	E3_E3__FAD_transgenic__Male	Mus musculus	M11_D10_mouse_E3/E3_FAD_microglia	E3/E3		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306429
+GSM4988816	E4_E4__FAD_transgenic__Male	Mus musculus	M14_C12_mouse_E4/E4_FAD_microglia	E4/E4		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306430
+GSM4988817	E4_E4__FAD_transgenic__Male	Mus musculus	M16_E12_mouse_E4/E4_FAD_microglia	E4/E4		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306431
+GSM4988818	E3_E3__FAD_transgenic__Male	Mus musculus	M17_G10_mouse_E3/E3_FAD_microglia	E3/E3		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306432
+GSM4988819	E4_E4__Targeted_Replacement_Control__Male	Mus musculus	M52_G11_mouse_E4/E4_TR_microglia	E4/E4		Male		MACS-sorted CD11b+ cells from brain homogenates			Targeted Replacement Control	Batch 1	SRR13306433
+GSM4988820	E4_E4__Targeted_Replacement_Control__Male	Mus musculus	M53_H11_mouse_E4/E4_TR_microglia	E4/E4		Male		MACS-sorted CD11b+ cells from brain homogenates			Targeted Replacement Control	Batch 1	SRR13306434
+GSM4988821	E3_E3__FAD_transgenic__Male	Mus musculus	M6_B10_mouse_E3/E3_FAD_microglia	E3/E3		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306435
+GSM4988822	E3_E3__FAD_transgenic__Male	Mus musculus	M7_E10_mouse_E3/E3_FAD_microglia	E3/E3		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306436
+GSM4988823	E4_E4__Targeted_Replacement_Control__Male	Mus musculus	M88_A12_mouse_E4/E4_TR_microglia	E4/E4		Male		MACS-sorted CD11b+ cells from brain homogenates			Targeted Replacement Control	Batch 1	SRR13306437
+GSM4988824	E4_E4__FAD_transgenic__Male	Mus musculus	M89_B12_mouse_E4/E4_FAD_microglia	E4/E4		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306438
+GSM4988825	E3_E3__FAD_transgenic__Male	Mus musculus	M8_F10_mouse_E3/E3_FAD_microglia	E3/E3		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306439
+GSM4988826	E3_E3__FAD_transgenic__Male	Mus musculus	M94_A10_mouse_E3/E3_FAD_microglia	E3/E3		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306440
+GSM4988827	E3_E3__FAD_transgenic__Male	Mus musculus	M9_H9_mouse_E3/E3_FAD_microglia	E3/E3		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306441
+GSM4988828	E4_E4__FAD_transgenic__Male	Mus musculus	MA7_F12_mouse_E4/E4_FAD_microglia	E4/E4		Male		MACS-sorted CD11b+ cells from brain homogenates			FAD transgenic	Batch 1	SRR13306442

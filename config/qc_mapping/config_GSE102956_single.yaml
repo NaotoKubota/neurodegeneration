@@ -1,0 +1,23 @@
+workdir: "/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE102956_single"
+samples:
+  "GSM2751137": ["SRR5956447"]
+  "GSM2751138": ["SRR5956448"]
+  "GSM2751139": ["SRR5956449"]
+  "GSM2751140": ["SRR5956450"]
+  "GSM2751141": ["SRR5956451"]
+  "GSM2751142": ["SRR5956452"]
+  "GSM2751143": ["SRR5956453"]
+  "GSM2751144": ["SRR5956454"]
+  "GSM2751145": ["SRR5956455"]
+  "GSM2751146": ["SRR5956456"]
+  "GSM2751147": ["SRR5956457"]
+  "GSM2751148": ["SRR5956458"]
+  "GSM2751157": ["SRR5956467"]
+  "GSM2751158": ["SRR5956468"]
+  "GSM2751159": ["SRR5956469"]
+  "GSM2751160": ["SRR5956470"]
+  "GSM2751161": ["SRR5956471"]
+  "GSM2751162": ["SRR5956472"]
+star_index: "/rhome/naotok/bigdata/STAR/index_hg38_ensembl_v106"
+gtf: "/rhome/naotok/bigdata/genome_annotation/Human/Homo_sapiens.GRCh38.106.gtf"
+layout: "single"

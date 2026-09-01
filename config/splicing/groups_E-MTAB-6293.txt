@@ -1,0 +1,6 @@
+ATXN2Q127__1_day
+ATXN2Q127__3_week
+ATXN2Q127__6_week
+wild_type_genotype__1_day
+wild_type_genotype__3_week
+wild_type_genotype__6_week

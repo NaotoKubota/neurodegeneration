@@ -1,0 +1,9 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+GSM2751149	APOE3__microglia_like_cells	Homo sapiens	RNA-Seq MIC APOE3_rep1	APOE3				microglia-like cells					SRR5956459
+GSM2751150	APOE3__microglia_like_cells	Homo sapiens	RNA-Seq MIC APOE3_rep2	APOE3				microglia-like cells					SRR5956460
+GSM2751151	APOE3__microglia_like_cells	Homo sapiens	RNA-Seq MIC APOE3_rep3	APOE3				microglia-like cells					SRR5956461
+GSM2751152	APOE3__microglia_like_cells	Homo sapiens	RNA-Seq MIC APOE3_rep4	APOE3				microglia-like cells					SRR5956462
+GSM2751153	APOE4__microglia_like_cells	Homo sapiens	RNA-Seq MIC APOE4_rep1	APOE4				microglia-like cells					SRR5956463
+GSM2751154	APOE4__microglia_like_cells	Homo sapiens	RNA-Seq MIC APOE4_rep2	APOE4				microglia-like cells					SRR5956464
+GSM2751155	APOE4__microglia_like_cells	Homo sapiens	RNA-Seq MIC APOE4_rep3	APOE4				microglia-like cells					SRR5956465
+GSM2751156	APOE4__microglia_like_cells	Homo sapiens	RNA-Seq MIC APOE4_rep4	APOE4				microglia-like cells					SRR5956466

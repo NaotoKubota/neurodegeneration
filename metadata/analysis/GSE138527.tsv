@@ -1,0 +1,7 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+GSM4110695	wildtype	Mus musculus	RNA-seq_390 WT_Rep1	wildtype	40 weeks		cerebellum						SRR10240070
+GSM4110696	wildtype	Mus musculus	RNA-seq_392 WT_Rep2	wildtype	40 weeks		cerebellum						SRR10240071
+GSM4110697	wildtype	Mus musculus	RNA-seq_409 WT_Rep3	wildtype	40 weeks		cerebellum						SRR10240072
+GSM4110698	SCA7_140Q_5Q_knock_in_Ki	Mus musculus	RNA-seq_378 Kihet_Rep1	SCA7 140Q/5Q knock-in (Ki)	40 weeks		cerebellum						SRR10240073
+GSM4110699	SCA7_140Q_5Q_knock_in_Ki	Mus musculus	RNA-seq_408 Kihet_Rep2	SCA7 140Q/5Q knock-in (Ki)	40 weeks		cerebellum						SRR10240074
+GSM4110700	SCA7_140Q_5Q_knock_in_Ki	Mus musculus	RNA-seq_411 Kihet_Rep3	SCA7 140Q/5Q knock-in (Ki)	40 weeks		cerebellum						SRR10240075

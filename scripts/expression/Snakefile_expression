@@ -1,0 +1,33 @@
+"""Gene-level counting for STAR-aligned bulk RNA-seq BAM files."""
+
+workdir: config["workdir"]
+
+samples_cfg = config["samples"]
+samples = list(samples_cfg.keys()) if isinstance(samples_cfg, dict) else list(samples_cfg)
+gtf = config["gtf"]
+layout = config["layout"]
+paired_options = "-p --countReadPairs" if layout == "paired" else ""
+
+
+rule all:
+    input:
+        "expression/featureCounts.txt"
+
+
+rule featurecounts:
+    container:
+        "docker://quay.io/biocontainers/subread:2.0.6--he4a0461_0"
+    input:
+        bams=expand("star/{sample}/{sample}_Aligned.out.bam", sample=samples)
+    output:
+        counts="expression/featureCounts.txt",
+        summary="expression/featureCounts.txt.summary"
+    params:
+        gtf=gtf,
+        paired=paired_options
+    threads: 16
+    log:
+        "log/featureCounts.log"
+    shell:
+        "featureCounts -T {threads} -a {params.gtf} -o {output.counts} "
+        "-t exon -g gene_id {params.paired} {input.bams} >& {log}"

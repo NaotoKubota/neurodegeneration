@@ -1,0 +1,9 @@
+sample	bam	group
+GSM7469333	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE234480/star/GSM7469333/GSM7469333_Aligned.out.bam	WT_APOE4
+GSM7469334	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE234480/star/GSM7469334/GSM7469334_Aligned.out.bam	WT_APOE4
+GSM7469335	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE234480/star/GSM7469335/GSM7469335_Aligned.out.bam	WT_APOE4
+GSM7469336	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE234480/star/GSM7469336/GSM7469336_Aligned.out.bam	WT_APOE4
+GSM7469337	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE234480/star/GSM7469337/GSM7469337_Aligned.out.bam	WT_APOE4
+GSM7469338	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE234480/star/GSM7469338/GSM7469338_Aligned.out.bam	WT_APOE4_cKO
+GSM7469339	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE234480/star/GSM7469339/GSM7469339_Aligned.out.bam	WT_APOE4_cKO
+GSM7469340	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE234480/star/GSM7469340/GSM7469340_Aligned.out.bam	WT_APOE4_cKO

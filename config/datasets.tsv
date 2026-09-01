@@ -1,0 +1,19 @@
+accession	gene	status	reason
+E-MTAB-6293	ATXN2	include	Bulk cerebellum RNA-seq
+GSE138527	ATXN7	include	Bulk cerebellum RNA-seq
+GSE139090	ATXN7	include	Bulk cerebellum RNA-seq
+GSE271392	ATXN7	include	Bulk medulla and cervical spinal cord RNA-seq; analyze separately from cerebellum
+GSE102956	APOE	include	Bulk RNA-seq of isogenic iPSC-derived cell types
+GSE163857	APOE	include	Bulk RNA-seq; human and mouse are separate analysis units
+GSE140205	APOE	include	Bulk hippocampus RNA-seq
+GSE164507	APOE	exclude	Single-nucleus RNA-seq
+GSE213446	APOE	exclude	Single-nucleus RNA-seq
+GSE223719	APOE	exclude	Single-cell RNA-seq
+GSE234350	APOE	include	Bulk Smart-seq2 of FACS-purified microglia
+GSE234480	APOE	include	Bulk Smart-seq2 of FACS-purified astrocytes
+GSE234488	APOE	include	Bulk Smart-seq2 of human brain tissue
+GSE237718	APOE	exclude	Single-nucleus RNA-seq
+GSE242153	APOE	exclude	Single-nucleus RNA-seq
+GSE248020	APOE	exclude	Single-cell RNA-seq
+GSE254205	APOE	include	Mixed Series; include only bulk iPSC-derived microglia RNA-seq samples
+GSE295612	APOE	exclude	Single-cell RNA-seq

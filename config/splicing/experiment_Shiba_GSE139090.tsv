@@ -1,0 +1,13 @@
+sample	bam	group
+GSM4130767	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130767/GSM4130767_Aligned.out.bam	wild_type__12_weeks
+GSM4130768	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130768/GSM4130768_Aligned.out.bam	wild_type__12_weeks
+GSM4130769	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130769/GSM4130769_Aligned.out.bam	wild_type__12_weeks
+GSM4130770	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130770/GSM4130770_Aligned.out.bam	wild_type__29_weeks
+GSM4130771	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130771/GSM4130771_Aligned.out.bam	wild_type__29_weeks
+GSM4130772	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130772/GSM4130772_Aligned.out.bam	wild_type__29_weeks
+GSM4130773	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130773/GSM4130773_Aligned.out.bam	fxSCA7_92Q__12_weeks
+GSM4130774	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130774/GSM4130774_Aligned.out.bam	fxSCA7_92Q__12_weeks
+GSM4130775	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130775/GSM4130775_Aligned.out.bam	fxSCA7_92Q__12_weeks
+GSM4130776	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130776/GSM4130776_Aligned.out.bam	fxSCA7_92Q__29_weeks
+GSM4130777	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130777/GSM4130777_Aligned.out.bam	fxSCA7_92Q__29_weeks
+GSM4130778	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090/star/GSM4130778/GSM4130778_Aligned.out.bam	fxSCA7_92Q__29_weeks

@@ -1,0 +1,25 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+GSM4988829	E3_E3__Healthy_Control__CTL__Male	Homo sapiens	EDi028-A_CTL_human_E3/E3_Healthy_iMicroglia	E3/E3		Male		iPSC-derived microglia		CTL	Healthy Control	Batch 2	SRR13306443
+GSM4988830	E3_E3__Healthy_Control__CTL__Female	Homo sapiens	EDi034-A_CTL_human_E3/E3_Healthy_iMicroglia	E3/E3		Female		iPSC-derived microglia		CTL	Healthy Control	Batch 2	SRR13306444
+GSM4988831	E3_E4__Healthy_Control__CTL__Male	Homo sapiens	EDi022-A_CTL_human_E3/E4_Healthy_iMicroglia	E3/E4		Male		iPSC-derived microglia		CTL	Healthy Control	Batch 2	SRR13306445
+GSM4988832	E3_E4__Healthy_Control__CTL__Female	Homo sapiens	EDi042-A_CTL_human_E3/E4_Healthy_iMicroglia	E3/E4		Female		iPSC-derived microglia		CTL	Healthy Control	Batch 2	SRR13306446
+GSM4988833	E3_E4__Healthy_Control__CTL__Female	Homo sapiens	EDi044-A_CTL_human_E3/E4_Healthy_iMicroglia	E3/E4		Female		iPSC-derived microglia		CTL	Healthy Control	Batch 2	SRR13306447
+GSM4988834	E3_E3__Healthy_Control__CTL__Male	Homo sapiens	EDi029-A_CTL1_human_E3/E3_Healthy_iMicroglia	E3/E3		Male		iPSC-derived microglia		CTL	Healthy Control	Batch 3	SRR13306448
+GSM4988835	E3_E3__Healthy_Control__CTL__Male	Homo sapiens	EDi029-A_CTL2_human_E3/E3_Healthy_iMicroglia	E3/E3		Male		iPSC-derived microglia		CTL	Healthy Control	Batch 3	SRR13306449
+GSM4988836	E3_E3__Healthy_Control__Zn__Male	Homo sapiens	EDi029-A_Zn_human_E3/E3_Healthy_iMicroglia	E3/E3		Male		iPSC-derived microglia		Zn	Healthy Control	Batch 3	SRR13306450
+GSM4988837	E3_E3__Healthy_Control__Cd__Female	Homo sapiens	EDi035-A_Cd_human_E3/E3_Healthy_iMicroglia	E3/E3		Female		iPSC-derived microglia		Cd	Healthy Control	Batch 3	SRR13306451
+GSM4988838	E3_E3__Healthy_Control__CTL__Female	Homo sapiens	EDi035-A_CTL1_human_E3/E3_Healthy_iMicroglia	E3/E3		Female		iPSC-derived microglia		CTL	Healthy Control	Batch 3	SRR13306452
+GSM4988839	E3_E3__Healthy_Control__CTL__Female	Homo sapiens	EDi035-A_CTL2_human_E3/E3_Healthy_iMicroglia	E3/E3		Female		iPSC-derived microglia		CTL	Healthy Control	Batch 3	SRR13306453
+GSM4988840	E3_E3__Healthy_Control__Zn__Female	Homo sapiens	EDi035-A_Zn_human_E3/E3_Healthy_iMicroglia	E3/E3		Female		iPSC-derived microglia		Zn	Healthy Control	Batch 3	SRR13306454
+GSM4988841	E3_E3__Healthy_Control__Cd__Female	Homo sapiens	EDi036-A_Cd_human_E3/E3_Healthy_iMicroglia	E3/E3		Female		iPSC-derived microglia		Cd	Healthy Control	Batch 3	SRR13306455
+GSM4988842	E3_E3__Healthy_Control__CTL__Female	Homo sapiens	EDi036-A_CTL1_human_E3/E3_Healthy_iMicroglia	E3/E3		Female		iPSC-derived microglia		CTL	Healthy Control	Batch 3	SRR13306456
+GSM4988843	E3_E3__Healthy_Control__CTL__Female	Homo sapiens	EDi036-A_CTL2_human_E3/E3_Healthy_iMicroglia	E3/E3		Female		iPSC-derived microglia		CTL	Healthy Control	Batch 3	SRR13306457
+GSM4988844	E3_E3__Healthy_Control__Zn__Female	Homo sapiens	EDi036-A_Zn_human_E3/E3_Healthy_iMicroglia	E3/E3		Female		iPSC-derived microglia		Zn	Healthy Control	Batch 3	SRR13306458
+GSM4988845	E4_E4__Healthy_Control__Cd__Female	Homo sapiens	EDi023-A_Cd_human_E4/E4_Healthy_iMicroglia	E4/E4		Female		iPSC-derived microglia		Cd	Healthy Control	Batch 3	SRR13306459
+GSM4988846	E4_E4__Healthy_Control__CTL__Female	Homo sapiens	EDi023-A_CTL1_human_E4/E4_Healthy_iMicroglia	E4/E4		Female		iPSC-derived microglia		CTL	Healthy Control	Batch 3	SRR13306460
+GSM4988847	E4_E4__Healthy_Control__CTL__Female	Homo sapiens	EDi023-A_CTL2_human_E4/E4_Healthy_iMicroglia	E4/E4		Female		iPSC-derived microglia		CTL	Healthy Control	Batch 3	SRR13306461
+GSM4988848	E4_E4__Healthy_Control__Zn__Female	Homo sapiens	EDi023-A_Zn_human_E4/E4_Healthy_iMicroglia	E4/E4		Female		iPSC-derived microglia		Zn	Healthy Control	Batch 3	SRR13306462
+GSM4988849	E3_E4__Healthy_Control__Cd__Male	Homo sapiens	CS8FP5iCTR_Cd_human_E3/E4_Healthy_iMicroglia	E3/E4		Male		iPSC-derived microglia		Cd	Healthy Control	Batch 3	SRR13306463
+GSM4988850	E3_E4__Healthy_Control__CTL__Male	Homo sapiens	CS8FP5iCTR_CTL1_human_E3/E4_Healthy_iMicroglia	E3/E4		Male		iPSC-derived microglia		CTL	Healthy Control	Batch 3	SRR13306464
+GSM4988851	E3_E4__Healthy_Control__CTL__Male	Homo sapiens	CS8FP5iCTR_CTL2_human_E3/E4_Healthy_iMicroglia	E3/E4		Male		iPSC-derived microglia		CTL	Healthy Control	Batch 3	SRR13306465
+GSM4988852	E3_E4__Healthy_Control__Zn__Male	Homo sapiens	CS8FP5iCTR_Zn_human_E3/E4_Healthy_iMicroglia	E3/E4		Male		iPSC-derived microglia		Zn	Healthy Control	Batch 3	SRR13306466

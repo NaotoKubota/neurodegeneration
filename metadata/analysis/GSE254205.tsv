@@ -1,0 +1,18 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+GSM8035914	APOE_4_4__untreated	Homo sapiens	NT1 Untreated APOE 4/4 iMG PE  [RNA-seq]	APOE 4/4				iMicroglia		untreated			SRR27726114
+GSM8035915	APOE_4_4__untreated	Homo sapiens	NT2 Untreated APOE 4/4 iMG PE  [RNA-seq]	APOE 4/4				iMicroglia		untreated			SRR27726113
+GSM8035916	APOE_4_4__untreated	Homo sapiens	NT3 Untreated APOE 4/4 iMG PE  [RNA-seq]	APOE 4/4				iMicroglia		untreated			SRR27726112
+GSM8035917	APOE_4_4__fAB_treated	Homo sapiens	AB1 fAB treated APOE 4/4 iMG PE  [RNA-seq]	APOE 4/4				iMicroglia		fAB treated			SRR27726181
+GSM8035918	APOE_4_4__fAB_treated	Homo sapiens	AB2 fAB treated APOE 4/4 iMG PE  [RNA-seq]	APOE 4/4				iMicroglia		fAB treated			SRR27726180
+GSM8035919	APOE_4_4__fAB_treated	Homo sapiens	AB3 fAB treated APOE 4/4 iMG PE  [RNA-seq]	APOE 4/4				iMicroglia		fAB treated			SRR27726179
+GSM8035920	APOE_4_4__GNE_317_fAB_treated	Homo sapiens	AB_GNE1 GNE-317, fAB treated APOE 4/4 iMG PE  [RNA-seq]	APOE 4/4				iMicroglia		GNE-317, fAB treated			SRR27726178
+GSM8035921	APOE_4_4__GNE_317_fAB_treated	Homo sapiens	AB_GNE2 GNE-317, fAB treated APOE 4/4 iMG PE  [RNA-seq]	APOE 4/4				iMicroglia		GNE-317, fAB treated			SRR27726177
+GSM8035922	APOE_4_4__GNE_317_fAB_treated	Homo sapiens	AB_GNE3 GNE-317, fAB treated APOE 4/4 iMG PE [RNA-seq]	APOE 4/4				iMicroglia		GNE-317, fAB treated			SRR27726176
+GSM8035923	APOE_3_3__APOE_3_3_iMG_LD_low__LD_low	Homo sapiens	APOE 3/3 iMG LD low PE 1 [RNA-seq]	APOE 3/3				iMicroglia		APOE 3/3 iMG LD low			SRR27726175
+GSM8035924	APOE_3_3__APOE_3_3_iMG_LD_low__LD_low	Homo sapiens	APOE 3/3 iMG LD low PE 2 [RNA-seq]	APOE 3/3				iMicroglia		APOE 3/3 iMG LD low			SRR27726174
+GSM8035925	APOE_3_3__APOE_3_3_iMG_LD_high__LD_high	Homo sapiens	APOE 3/3 iMG LD high PE 1 [RNA-seq]	APOE 3/3				iMicroglia		APOE 3/3 iMG LD high			SRR27726173
+GSM8035926	APOE_3_3__APOE_3_3_iMG_LD_high__LD_high	Homo sapiens	APOE 3/3 iMG LD high PE 2 [RNA-seq]	APOE 3/3				iMicroglia		APOE 3/3 iMG LD high			SRR27726172
+GSM8035927	APOE_4_4__APOE_4_4_iMG_LD_low__LD_low	Homo sapiens	APOE 4/4 iMG LD low PE 1 [RNA-seq]	APOE 4/4				iMicroglia		APOE 4/4 iMG LD low			SRR27726171
+GSM8035928	APOE_4_4__APOE_4_4_iMG_LD_low__LD_low	Homo sapiens	APOE 4/4 iMG LD low PE 2 [RNA-seq]	APOE 4/4				iMicroglia		APOE 4/4 iMG LD low			SRR27726170
+GSM8035929	APOE_4_4__APOE_4_4_iMG_LD_high__LD_high	Homo sapiens	APOE 4/4 iMG LD high PE 1 [RNA-seq]	APOE 4/4				iMicroglia		APOE 4/4 iMG LD high			SRR27726169
+GSM8035930	APOE_4_4__APOE_4_4_iMG_LD_high__LD_high	Homo sapiens	APOE 4/4 iMG LD high PE 2 [RNA-seq]	APOE 4/4				iMicroglia		APOE 4/4 iMG LD high			SRR27726168

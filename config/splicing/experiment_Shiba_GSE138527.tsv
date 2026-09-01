@@ -1,0 +1,7 @@
+sample	bam	group
+GSM4110695	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE138527/star/GSM4110695/GSM4110695_Aligned.out.bam	wildtype
+GSM4110696	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE138527/star/GSM4110696/GSM4110696_Aligned.out.bam	wildtype
+GSM4110697	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE138527/star/GSM4110697/GSM4110697_Aligned.out.bam	wildtype
+GSM4110698	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE138527/star/GSM4110698/GSM4110698_Aligned.out.bam	SCA7_140Q_5Q_knock_in_Ki
+GSM4110699	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE138527/star/GSM4110699/GSM4110699_Aligned.out.bam	SCA7_140Q_5Q_knock_in_Ki
+GSM4110700	/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE138527/star/GSM4110700/GSM4110700_Aligned.out.bam	SCA7_140Q_5Q_knock_in_Ki

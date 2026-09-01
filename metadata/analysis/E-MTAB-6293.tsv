@@ -1,0 +1,65 @@
+sample	group	species	title	genotype	age	sex	tissue	cell_type	disease	treatment	background	batch	runs
+ERS2075828	wild_type_genotype__6_week	Mus musculus	10406X1.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237861
+ERS2075829	wild_type_genotype__6_week	Mus musculus	10406X10.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237862
+ERS2075830	wild_type_genotype__6_week	Mus musculus	10406X11.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237863
+ERS2075831	wild_type_genotype__6_week	Mus musculus	10406X12.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237864
+ERS2075832	wild_type_genotype__6_week	Mus musculus	10406X13.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237865
+ERS2075833	wild_type_genotype__6_week	Mus musculus	10406X14.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237866
+ERS2075834	wild_type_genotype__6_week	Mus musculus	10406X15.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237867
+ERS2075835	wild_type_genotype__6_week	Mus musculus	10406X16.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237868
+ERS2075836	ATXN2Q127__6_week	Mus musculus	10406X17.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237869
+ERS2075837	ATXN2Q127__6_week	Mus musculus	10406X18.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237870
+ERS2075838	ATXN2Q127__6_week	Mus musculus	10406X19.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237871
+ERS2075839	wild_type_genotype__6_week	Mus musculus	10406X2.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237872
+ERS2075840	ATXN2Q127__6_week	Mus musculus	10406X20.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237873
+ERS2075841	ATXN2Q127__6_week	Mus musculus	10406X21.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237874
+ERS2075842	ATXN2Q127__6_week	Mus musculus	10406X22.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237875
+ERS2075843	ATXN2Q127__6_week	Mus musculus	10406X23.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237876
+ERS2075844	ATXN2Q127__6_week	Mus musculus	10406X24.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237877
+ERS2075845	ATXN2Q127__6_week	Mus musculus	10406X25.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237878
+ERS2075846	ATXN2Q127__6_week	Mus musculus	10406X26.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237879
+ERS2075847	ATXN2Q127__6_week	Mus musculus	10406X27.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237880
+ERS2075848	ATXN2Q127__3_week	Mus musculus	10630X27.txt.gz	ATXN2Q127	3 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237881
+ERS2075849	ATXN2Q127__6_week	Mus musculus	10406X28.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237882
+ERS2075850	ATXN2Q127__6_week	Mus musculus	10406X29.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237883
+ERS2075851	wild_type_genotype__6_week	Mus musculus	10406X3.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237884
+ERS2075852	ATXN2Q127__6_week	Mus musculus	10406X30.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237885
+ERS2075853	ATXN2Q127__6_week	Mus musculus	10406X31.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237886
+ERS2075854	ATXN2Q127__6_week	Mus musculus	10406X32.txt.gz	ATXN2Q127	6 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237887
+ERS2075855	wild_type_genotype__6_week	Mus musculus	10406X4.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237888
+ERS2075856	wild_type_genotype__6_week	Mus musculus	10406X5.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237889
+ERS2075857	wild_type_genotype__6_week	Mus musculus	10406X6.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237890
+ERS2075858	wild_type_genotype__6_week	Mus musculus	10406X7.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237891
+ERS2075859	wild_type_genotype__6_week	Mus musculus	10406X8.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237892
+ERS2075860	wild_type_genotype__6_week	Mus musculus	10406X9.txt.gz	wild type genotype	6 week	male	cerebellum		normal				ERR2237893
+ERS2075861	wild_type_genotype__1_day	Mus musculus	10630X1.txt.gz	wild type genotype	1 day	male	cerebellum		normal				ERR2237894
+ERS2075862	ATXN2Q127__1_day	Mus musculus	10630X10.txt.gz	ATXN2Q127	1 day	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237895
+ERS2075863	ATXN2Q127__1_day	Mus musculus	10630X11.txt.gz	ATXN2Q127	1 day	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237896
+ERS2075864	ATXN2Q127__1_day	Mus musculus	10630X12.txt.gz	ATXN2Q127	1 day	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237897
+ERS2075865	ATXN2Q127__1_day	Mus musculus	10630X13.txt.gz	ATXN2Q127	1 day	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237898
+ERS2075866	ATXN2Q127__1_day	Mus musculus	10630X14.txt.gz	ATXN2Q127	1 day	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237899
+ERS2075867	ATXN2Q127__1_day	Mus musculus	10630X15.txt.gz	ATXN2Q127	1 day	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237900
+ERS2075868	ATXN2Q127__1_day	Mus musculus	10630X16.txt.gz	ATXN2Q127	1 day	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237901
+ERS2075869	wild_type_genotype__3_week	Mus musculus	10630X17.txt.gz	wild type genotype	3 week	male	cerebellum		normal				ERR2237902
+ERS2075870	wild_type_genotype__3_week	Mus musculus	10630X18.txt.gz	wild type genotype	3 week	male	cerebellum		normal				ERR2237903
+ERS2075871	wild_type_genotype__3_week	Mus musculus	10630X19.txt.gz	wild type genotype	3 week	male	cerebellum		normal				ERR2237904
+ERS2075872	wild_type_genotype__1_day	Mus musculus	10630X2.txt.gz	wild type genotype	1 day	male	cerebellum		normal				ERR2237905
+ERS2075873	wild_type_genotype__3_week	Mus musculus	10630X20.txt.gz	wild type genotype	3 week	male	cerebellum		normal				ERR2237906
+ERS2075874	wild_type_genotype__3_week	Mus musculus	10630X21.txt.gz	wild type genotype	3 week	male	cerebellum		normal				ERR2237907
+ERS2075875	wild_type_genotype__3_week	Mus musculus	10630X22.txt.gz	wild type genotype	3 week	male	cerebellum		normal				ERR2237908
+ERS2075876	wild_type_genotype__3_week	Mus musculus	10630X23.txt.gz	wild type genotype	3 week	male	cerebellum		normal				ERR2237909
+ERS2075877	wild_type_genotype__3_week	Mus musculus	10630X24.txt.gz	wild type genotype	3 week	male	cerebellum		normal				ERR2237910
+ERS2075878	ATXN2Q127__3_week	Mus musculus	10630X25.txt.gz	ATXN2Q127	3 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237911
+ERS2075879	ATXN2Q127__3_week	Mus musculus	10630X26.txt.gz	ATXN2Q127	3 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237912
+ERS2075880	ATXN2Q127__3_week	Mus musculus	10630X28.txt.gz	ATXN2Q127	3 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237913
+ERS2075881	ATXN2Q127__3_week	Mus musculus	10630X29.txt.gz	ATXN2Q127	3 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237914
+ERS2075882	wild_type_genotype__1_day	Mus musculus	10630X3.txt.gz	wild type genotype	1 day	male	cerebellum		normal				ERR2237915
+ERS2075883	ATXN2Q127__3_week	Mus musculus	10630X30.txt.gz	ATXN2Q127	3 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237916
+ERS2075884	ATXN2Q127__3_week	Mus musculus	10630X31.txt.gz	ATXN2Q127	3 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237917
+ERS2075885	ATXN2Q127__3_week	Mus musculus	10630X32.txt.gz	ATXN2Q127	3 week	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237918
+ERS2075886	wild_type_genotype__1_day	Mus musculus	10630X4.txt.gz	wild type genotype	1 day	male	cerebellum		normal				ERR2237919
+ERS2075887	wild_type_genotype__1_day	Mus musculus	10630X5.txt.gz	wild type genotype	1 day	male	cerebellum		normal				ERR2237920
+ERS2075888	wild_type_genotype__1_day	Mus musculus	10630X6.txt.gz	wild type genotype	1 day	male	cerebellum		normal				ERR2237921
+ERS2075889	wild_type_genotype__1_day	Mus musculus	10630X7.txt.gz	wild type genotype	1 day	male	cerebellum		normal				ERR2237922
+ERS2075890	wild_type_genotype__1_day	Mus musculus	10630X8.txt.gz	wild type genotype	1 day	male	cerebellum		normal				ERR2237923
+ERS2075891	ATXN2Q127__1_day	Mus musculus	10630X9.txt.gz	ATXN2Q127	1 day	male	cerebellum		Spinocerebellar ataxia type 2				ERR2237924

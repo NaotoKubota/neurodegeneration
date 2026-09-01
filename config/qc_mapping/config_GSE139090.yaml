@@ -1,0 +1,17 @@
+workdir: "/rhome/naotok/bigdata/neurodegeneration/GEO_SRA/GSE139090"
+samples:
+  "GSM4130767": ["SRR10310286"]
+  "GSM4130768": ["SRR10310287"]
+  "GSM4130769": ["SRR10310288"]
+  "GSM4130770": ["SRR10310289"]
+  "GSM4130771": ["SRR10310290"]
+  "GSM4130772": ["SRR10310291"]
+  "GSM4130773": ["SRR10310292"]
+  "GSM4130774": ["SRR10310293"]
+  "GSM4130775": ["SRR10310294"]
+  "GSM4130776": ["SRR10310295"]
+  "GSM4130777": ["SRR10310296"]
+  "GSM4130778": ["SRR10310297"]
+star_index: "/rhome/naotok/bigdata/STAR/index_mm10_ensembl_v102"
+gtf: "/rhome/naotok/bigdata/genome_annotation/Mouse/Mus_musculus.GRCm38.102.gtf"
+layout: "single"
