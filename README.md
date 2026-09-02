@@ -42,6 +42,10 @@ jobs/                          # Submitted Slurm job IDs and dependencies
 logs/slurm/                    # Slurm output logs
 ```
 
+Dataset-level sample metadata, registered contrasts, and exclusion decisions
+are summarized in [docs/datasets.md](docs/datasets.md). A standalone browser
+version is available at [docs/datasets.html](docs/datasets.html).
+
 ## Regenerating metadata and configurations
 
 ```bash
@@ -132,6 +136,11 @@ recorded as `missing_species_pos_id` and is never matched against mouse output.
 The script determines the target species from the sole `species` value in
 `metadata/analysis/<analysis_id>.tsv`, then matches only that species' `pos_id`
 exactly. It needs Python packages `pandas` and `matplotlib`.
+
+By default, figures are restricted to neuronal cells and nervous-system tissue:
+cerebellum, hippocampus, medulla, cervical spinal cord, neurons, and whole-brain
+tissue. Microglial, astrocytic, iPSC, and other non-neuronal comparisons are
+excluded from plotting.
 
 ```bash
 # Scan all registered completed contrasts.

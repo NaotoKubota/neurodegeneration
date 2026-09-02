@@ -22,6 +22,15 @@ ROOT = Path(__file__).resolve().parents[2]
 EVENT_TYPES = {"SE", "FIVE", "THREE", "RI", "MXE", "AFE", "ALE", "MSE"}
 SPECIES_ALIASES = {"Mus musculus": "mouse", "Homo sapiens": "human"}
 REQUIRED_COLUMNS = {"pos_id", "ref_PSI", "alt_PSI", "dPSI", "q"}
+NEURONAL_ANALYSIS_IDS = {
+    "E-MTAB-6293",
+    "GSE138527",
+    "GSE139090",
+    "GSE140205",
+    "GSE234488",
+    "GSE271392",
+}
+NEURONAL_CONTRAST_NAMES = {"APOE4_vs_APOE3_neurons"}
 REFERENCE_COLOR = "#0072B2"
 ALTERNATIVE_COLOR = "#D55E00"
 POSITIVE_DPSI_COLOR = "#D55E00"
@@ -127,6 +136,13 @@ def sample_groups(analysis_id: str, contrast: pd.Series) -> dict[str, str]:
         raise ValueError(f"{experiment_path} missing columns: {sorted(missing_columns)}")
     selected = experiment.loc[experiment["group"].isin([contrast["reference_group"], contrast["alternative_group"]])]
     return dict(zip(selected["sample"], selected["group"]))
+
+
+def neuronal_contrasts(contrasts: pd.DataFrame) -> pd.DataFrame:
+    mask = contrasts["analysis_id"].isin(NEURONAL_ANALYSIS_IDS) | contrasts["contrast_name"].isin(
+        NEURONAL_CONTRAST_NAMES
+    )
+    return contrasts.loc[mask].copy()
 
 
 def slug(value: str) -> str:
@@ -317,6 +333,9 @@ def main() -> None:
         contrasts = contrasts.loc[contrasts["contrast_name"].isin(args.contrasts)]
         if contrasts.empty:
             raise SystemExit("No requested contrast names were found in config/contrasts.tsv")
+    contrasts = neuronal_contrasts(contrasts)
+    if contrasts.empty:
+        raise SystemExit("No requested contrasts are neuronal cell or nervous-system tissue comparisons")
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
     results, sample_results = collect_event_results(events, contrasts, args.data_root)
@@ -337,7 +356,7 @@ def main() -> None:
         if not event_samples.empty:
             plot_sample_psi(event, event_samples, event_dir / "sample_psi")
 
-    print(f"Wrote manifest and figures to {args.output_dir}")
+    print(f"Processed {len(contrasts)} neuronal contrasts and wrote manifest and figures to {args.output_dir}")
 
 
 if __name__ == "__main__":
