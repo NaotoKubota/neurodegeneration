@@ -103,3 +103,54 @@ retry and resource-adjustment records are described in `jobs/README.md`.
   statistical contrasts because the wild-type group contains only one sample.
 - DESeq2 designs can include relevant covariates, for example
   `~ sex + genotype` or `~ batch + genotype`.
+
+## Visualizing selected Shiba events
+
+Use `scripts/visualization/plot_shiba_events.py` to plot curated splicing
+events from completed Shiba contrasts. It reads every contrast in
+`config/contrasts.tsv` by default and searches for results at
+`<data-root>/<analysis_id>/Shiba/<contrast_name>/results/splicing/`.
+
+The input list is `scripts/visualization/events_of_interest.json`. Each event
+has a display title and an exact Shiba `pos_id` for each species. Add a human
+coordinate to `pos_id.human` only after it has been curated; an empty value is
+recorded as `missing_species_pos_id` and is never matched against mouse output.
+
+```json
+{
+  "name": "Example exon",
+  "gene_name": "EXAMPLE",
+  "event_type": "SE",
+  "pos_id": {
+    "mouse": "SE@chr1@...",
+    "human": "SE@chr1@..."
+  },
+  "note": ""
+}
+```
+
+The script determines the target species from the sole `species` value in
+`metadata/analysis/<analysis_id>.tsv`, then matches only that species' `pos_id`
+exactly. It needs Python packages `pandas` and `matplotlib`.
+
+```bash
+# Scan all registered completed contrasts.
+python3 scripts/visualization/plot_shiba_events.py
+
+# Recreate figures for selected contrasts and events.
+python3 scripts/visualization/plot_shiba_events.py \
+  --contrast SCA7_vs_WT_cervical_5wk \
+  --event 'Bak1 E5'
+```
+
+Outputs are written to `~/bigdata/neurodegeneration/figure/shiba_events/` by
+default. Use `--output-dir` to place a run elsewhere. Each found event receives
+`sample_psi` and `dpsi_summary` figures in PNG and PDF. Figures use Arial with
+7--10 pt text, embedded TrueType fonts in PDF, thin axes, and the
+colorblind-accessible blue/orange Okabe-Ito palette for publication-ready
+export.
+`event_contrast_manifest.tsv` records one event per contrast, including skipped
+results and their reason; `event_sample_psi.tsv` holds plotted sample PSI
+values. All PSI values, including `ref_PSI`, `alt_PSI`, and `dPSI`, are written
+as percentages; dPSI is expressed in percentage points. `event_contrast_summary.tsv`
+provides a count summary.

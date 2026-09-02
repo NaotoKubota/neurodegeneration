@@ -1,0 +1,45 @@
+{
+  "_comment": "Curated Shiba events. Match the exact pos_id for the analysis species; add human identifiers as they are curated.",
+  "events": [
+    {
+      "name": "Bak1 E5",
+      "gene_name": "Bak1",
+      "event_type": "SE",
+      "pos_id": {
+        "mouse": "SE@chr17@27021663-27021682@27021347-27022439",
+        "human": ""
+      },
+      "note": ""
+    },
+    {
+      "name": "Casp2 E9",
+      "gene_name": "Casp2",
+      "event_type": "SE",
+      "pos_id": {
+        "mouse": "SE@chr6@42276870-42276930@42276785-42279777",
+        "human": ""
+      },
+      "note": ""
+    },
+    {
+      "name": "Atp6v0a1 E19",
+      "gene_name": "Atp6v0a1",
+      "event_type": "SE",
+      "pos_id": {
+        "mouse": "SE@chr11@101049459-101049476@101048525-101055026",
+        "human": ""
+      },
+      "note": ""
+    },
+    {
+      "name": "Pxk E18",
+      "gene_name": "Pxk",
+      "event_type": "SE",
+      "pos_id": {
+        "mouse": "SE@chr14@8159999-8160031@8155345-8163935",
+        "human": ""
+      },
+      "note": ""
+    }
+  ]
+}
