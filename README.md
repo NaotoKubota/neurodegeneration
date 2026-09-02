@@ -2,7 +2,7 @@
 
 This repository provides a public bulk RNA-seq analysis pipeline modeled after
 the directory structure and tool selection in
-`/rhome/naotok/NeuronalMaturationSplicing`. It uses `ngsfetch` for data
+`/rhome/naotok/NeuronalMaturationSplicing`. It uses `ngsfetch` v0.1.2 for data
 retrieval; `SnakeNgs` with fastp, STAR, samtools, Picard, deepTools, and MultiQC
 for preprocessing; featureCounts and DESeq2 for differential gene expression;
 and Shiba for differential splicing.
@@ -81,11 +81,18 @@ sbatch scripts/splicing/Shiba_bulk_RNAseq.bash \
   GSE139090 wild_type__12_weeks fxSCA7_92Q__12_weeks
 ```
 
+Each Shiba contrast uses an independent output directory at
+`<analysis_dir>/Shiba/<contrast_name>/`. STAR mapping is limited to one
+concurrent Snakemake job per analysis to avoid memory overcommitment.
+
 Within each submitted analysis chain, Slurm `afterok` dependencies enforce the
 order `download -> QC/STAR -> featureCounts -> DESeq2`. Shiba depends directly
 on successful QC and alignment. Downloads are additionally serialized across
-datasets to avoid NCBI API rate limiting. Submitted job IDs are recorded in
-`jobs/submitted_20260831.tsv` and `jobs/contrasts_20260831.tsv`.
+datasets to avoid NCBI API rate limiting. Initial job IDs are recorded in
+`jobs/submitted_20260831.tsv` and `jobs/contrasts_20260831.tsv`; replacement
+jobs submitted after FASTQ cleanup are recorded in
+`jobs/resubmitted_20260901.tsv` and `jobs/contrasts_20260901.tsv`. Subsequent
+retry and resource-adjustment records are described in `jobs/README.md`.
 
 ## Analysis considerations
 

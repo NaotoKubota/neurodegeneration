@@ -15,7 +15,10 @@ name=${5:-$(printf '%s' "${contrast}" | tr ', /' '___')}
 project_root=${PROJECT_ROOT:-/rhome/naotok/neurodegeneration}
 data_root=${DATA_ROOT:-/rhome/naotok/bigdata/neurodegeneration/GEO_SRA}
 workdir="${data_root}/${analysis_id}"
+singularity_tmpdir=${SINGULARITY_TMPDIR:-${data_root}/.singularity/tmp}
 module load singularity
+mkdir -p "${singularity_tmpdir}"
+export SINGULARITY_TMPDIR="${singularity_tmpdir}"
 singularity exec --bind /rhome/naotok:/rhome/naotok \
     docker://quay.io/biocontainers/bioconductor-deseq2:1.42.0--r43hf17093f_0 \
     Rscript "${project_root}/scripts/expression/differential_expression.R" \

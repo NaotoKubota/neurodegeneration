@@ -1,0 +1,5 @@
+record_type	analysis_id	contrast_name	qc_job	counts_job	shiba_job	deseq2_job
+base	GSE163857_mouse	NA	27995845	27995847	NA	NA
+contrast	GSE163857_mouse	E4E4_vs_E3E3_FAD_female	27995845	27995847	27995848	27995849
+contrast	GSE163857_mouse	E4E4_vs_E3E3_FAD_male	27995845	27995847	27995850	27995851
+contrast	GSE163857_mouse	E4E4_vs_E3E3_TR_female	27995845	27995847	27995852	27995853
